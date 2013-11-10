@@ -23,6 +23,7 @@ public class ViewAll extends Activity {
 	private IbanAdapter db;
 	 ArrayList<String> list1,list2,list3;
 
+// testing 2 scm
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
